@@ -20,7 +20,7 @@ This project has helped me with understanding proper html markup, page structure
 
 ## LIVE SITE URL
 
-[Visit site](https://)
+Visit the live site[Site url](https://zeinghra.github.io/lg-project-walthome/)
 
 ## ME 👋
 
